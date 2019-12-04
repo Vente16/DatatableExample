@@ -24,4 +24,8 @@ Ejemplo para iniciar Datatable
   * Lleva la carpeta en donde tengas tus proyectos y extraela allí
   * Ejecuta el proyecto
 
+  Deberás ver algo así
+
+![alt text](https://raw.githubusercontent.com/Vente16/DatatableExample/master/demo.png)  
+
 
